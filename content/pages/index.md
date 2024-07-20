@@ -42,10 +42,7 @@ sections:
           Desde sistemas de iluminação inteligente até controle total por
           dispositivos móveis, criamos ambientes que se adaptam ao seu estilo de
           vida.
-        actions:
-          - type: Button
-            label: eia mais ...
-            url: 'https://www.midon.com.br'
+        actions: []
       - type: Card
         title: Sistemas de Segurança Integrados
         image:
