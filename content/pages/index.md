@@ -27,7 +27,7 @@ sections:
       type: Image
       altText: Hero section image
   - type: CardsSection
-    title: Experiencie uma automação completa
+    title: Tenha uma experiencia em automação completa
     subtitle: transforme seu dia a dia
     items:
       - type: Card
