@@ -58,6 +58,6 @@ sections:
           tranquilidade e proteção em tempo real.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Leia mais ...
             url: 'https://www.midon.com.br'
 ---
