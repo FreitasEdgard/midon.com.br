@@ -56,7 +56,7 @@ sections:
         title: Automação Residencial Personalizada
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/istockphoto-1033783224-612x612.jpg
           altText: Second item image
         text: >
           Desde sistemas de iluminação inteligente até controle total por
