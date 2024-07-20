@@ -13,7 +13,7 @@ sections:
     actions: []
     image:
       type: Image
-      url: /images/Capturar.JPG
+      url: /images/favicon.svg
       altText: Hero section image
   - type: CardsSection
     title: Experiencie uma automação completa
