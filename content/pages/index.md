@@ -12,7 +12,7 @@ sections:
       segura.
     actions:
       - type: Button
-        label: Start Building
+        label: WHATSAPP
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: large
         variant: contained
