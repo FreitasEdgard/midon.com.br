@@ -30,7 +30,7 @@ sections:
           e empresas, garantindo funcionamento sem interrupções.
         actions:
           - type: Button
-            label: Read the Docs
+            label: Leia mais ...
             url: 'https://www.midon.com.br'
       - type: Card
         title: Automação Residencial Personalizada
