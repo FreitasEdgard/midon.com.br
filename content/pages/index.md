@@ -39,7 +39,7 @@ sections:
           url: /images/mui-5.svg
           altText: Second item image
         text: >
-          esde sistemas de iluminação inteligente até controle total por
+          Desde sistemas de iluminação inteligente até controle total por
           dispositivos móveis, criamos ambientes que se adaptam ao seu estilo de
           vida.
         actions:
