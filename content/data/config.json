@@ -6,7 +6,7 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Pagina Inicial",
                 "url": "/",
                 "underline": "hover"
             },
