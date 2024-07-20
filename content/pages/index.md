@@ -10,13 +10,7 @@ sections:
       inteligente. Desde projetos residenciais até grandes empreendimentos
       comerciais, estamos aqui para tornar sua visão uma realidade eficiente e
       segura.
-    actions:
-      - type: Button
-        label: Read the Docs
-        url: 'https://docs.netlify.com/visual-editor/overview/'
-        size: large
-        variant: outlined
-        color: primary
+    actions: []
     image:
       type: Image
       url: /images/hero.svg
