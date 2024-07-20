@@ -38,11 +38,11 @@ sections:
   - type: HeroSection
     title: Revolucione com Inovação.
     subtitle: Soluções Personalizadas para Residências e Negócios
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      itae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Capacitamos seu espaço com soluções elétricas avançadas e automação
+      inteligente. Desde projetos residenciais até grandes empreendimentos
+      comerciais, estamos aqui para tornar sua visão uma realidade eficiente e
+      segura.
     actions:
       - type: Button
         label: Start Building
