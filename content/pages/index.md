@@ -26,10 +26,8 @@ sections:
           url: /images/nextjs.svg
           altText: First item image
         text: >
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
+          Expertise em projetos elétricos seguros e eficientes para residências
+          e empresas, garantindo funcionamento sem interrupções.
         actions:
           - type: Button
             label: Read the Docs
