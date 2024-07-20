@@ -5,39 +5,6 @@ sections:
   - type: HeroSection
     title: Revolucione com Inovação.
     subtitle: Soluções Personalizadas para Residências e Negócios
-    text: >+
-      Capacitamos seu espaço com soluções elétricas avançadas e automação
-      inteligente. Desde projetos residenciais até grandes empreendimentos
-      comerciais, estamos aqui para tornar sua visão uma realidade eficiente e
-      segura.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    actions: []
-    image:
-      type: Image
-      altText: Hero section image
-  - type: HeroSection
-    title: Revolucione com Inovação.
-    subtitle: Soluções Personalizadas para Residências e Negócios
     text: >
       Capacitamos seu espaço com soluções elétricas avançadas e automação
       inteligente. Desde projetos residenciais até grandes empreendimentos
