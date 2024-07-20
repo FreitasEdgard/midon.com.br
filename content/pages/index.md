@@ -67,7 +67,7 @@ sections:
         title: Sistemas de Segurança Integrados
         image:
           type: Image
-          url: /images/istockphoto-1344753810-612x612.jpg
+          url: /images/istockphoto-1162031332-612x612.jpg
           altText: Third item image
         text: >
 
