@@ -35,7 +35,7 @@
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Portifolio",
                 "underline": "hover",
                 "url": "/about"
             },
