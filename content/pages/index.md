@@ -25,7 +25,7 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/hero.svg
+      url: /images/_d3a4d9d2-a39b-480b-a363-c870cec9ac14 (2).jpg
       altText: Hero section image
   - type: CardsSection
     title: Experiencie uma automação completa
