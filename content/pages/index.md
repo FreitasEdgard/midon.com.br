@@ -45,7 +45,7 @@ sections:
         actions:
           - type: Button
             label: Read the Docs
-            url: 'https://docs.netlify.com/visual-editor/overview/'
+            url: 'https://www.midon.com.br'
       - type: Card
         title: Sistemas de Segurança Integrados
         image:
