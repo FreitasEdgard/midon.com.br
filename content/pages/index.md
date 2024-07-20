@@ -48,10 +48,7 @@ sections:
         text: >
           Expertise em projetos elétricos seguros e eficientes para residências
           e empresas, garantindo funcionamento sem interrupções.
-        actions:
-          - type: Button
-            label: Leia mais ...
-            url: 'https://www.midon.com.br'
+        actions: []
       - type: Card
         title: Automação Residencial Personalizada
         image:
