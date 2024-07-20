@@ -13,7 +13,7 @@
             {
                 "type": "Link",
                 "label": "Portfolio",
-                "url": "/about",
+                "url": "/",
                 "underline": "hover"
             },
             {
