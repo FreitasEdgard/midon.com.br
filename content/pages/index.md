@@ -62,7 +62,13 @@ sections:
           Desde sistemas de iluminação inteligente até controle total por
           dispositivos móveis, criamos ambientes que se adaptam ao seu estilo de
           vida.
-        actions: []
+        actions:
+          - type: Button
+            label: Learn more
+            url: /
+            size: medium
+            variant: text
+            color: primary
       - type: Card
         title: Sistemas de Segurança Integrados
         image:
