@@ -5,35 +5,27 @@ sections:
   - type: HeroSection
     title: Revolucione com Inovação.
     subtitle: Soluções Personalizadas para Residências e Negócios
-    text: >+
+    text: >
       Capacitamos seu espaço com soluções elétricas avançadas e automação
       inteligente. Desde projetos residenciais até grandes empreendimentos
       comerciais, estamos aqui para tornar sua visão uma realidade eficiente e
       segura.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    actions: []
+    actions:
+      - type: Button
+        label: WHATSAPP
+        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        size: large
+        variant: contained
+        color: primary
+      - type: Button
+        label: PORTIFOLIO
+        url: /
+        size: large
+        variant: outlined
+        color: primary
     image:
       type: Image
+      url: /images/hero.svg
       altText: Hero section image
   - type: CardsSection
     title: Experiencie uma automação completa
