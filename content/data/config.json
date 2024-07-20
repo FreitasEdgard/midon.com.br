@@ -19,7 +19,7 @@
             {
                 "type": "Link",
                 "label": "Sobre nós",
-                "url": "",
+                "url": "/",
                 "underline": "hover"
             }
         ]
