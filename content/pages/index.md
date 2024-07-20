@@ -13,7 +13,7 @@ sections:
     actions:
       - type: Button
         label: WHATSAPP
-        url: 'https://docs.netlify.com/visual-editor/get-started/'
+        url: 'https://w.app/qWzSNU'
         size: large
         variant: contained
         color: primary
