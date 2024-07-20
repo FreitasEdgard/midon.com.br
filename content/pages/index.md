@@ -17,7 +17,7 @@ sections:
       altText: Hero section image
   - type: CardsSection
     title: Cards Section Component
-    subtitle: Section subtitle here
+    subtitle: transforme seu dia a dia
     items:
       - type: Card
         title: Instalações Elétricas de Alta Performance
