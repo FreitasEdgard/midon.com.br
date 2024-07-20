@@ -73,8 +73,5 @@ sections:
 
           Soluções avançadas de vigilância e monitoramento, proporcionando
           tranquilidade e proteção em tempo real.
-        actions:
-          - type: Button
-            label: Leia mais ...
-            url: 'https://www.midon.com.br'
+        actions: []
 ---
