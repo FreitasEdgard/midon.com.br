@@ -3,7 +3,7 @@ title: Home
 type: Page
 sections:
   - type: HeroSection
-    title: Change Spaces with Innovation
+    title: Revolucione com Inovação.
     subtitle: Soluções Personalizadas para Residências e Negócios
     text: >
       Capacitamos seu espaço com soluções elétricas avançadas e automação
