@@ -5,15 +5,35 @@ sections:
   - type: HeroSection
     title: Revolucione com Inovação.
     subtitle: Soluções Personalizadas para Residências e Negócios
-    text: >
+    text: >+
       Capacitamos seu espaço com soluções elétricas avançadas e automação
       inteligente. Desde projetos residenciais até grandes empreendimentos
       comerciais, estamos aqui para tornar sua visão uma realidade eficiente e
       segura.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     actions: []
     image:
       type: Image
-      url: /images/_d3a4d9d2-a39b-480b-a363-c870cec9ac14.jpg
       altText: Hero section image
   - type: CardsSection
     title: Experiencie uma automação completa
@@ -23,20 +43,17 @@ sections:
         title: Instalações Elétricas de Alta Performance
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/istockphoto-1150199550-612x612.jpg
           altText: First item image
         text: >
           Expertise em projetos elétricos seguros e eficientes para residências
           e empresas, garantindo funcionamento sem interrupções.
-        actions:
-          - type: Button
-            label: Leia mais ...
-            url: 'https://www.midon.com.br'
+        actions: []
       - type: Card
         title: Automação Residencial Personalizada
         image:
           type: Image
-          url: /images/mui-5.svg
+          url: /images/istockphoto-1033783224-612x612.jpg
           altText: Second item image
         text: >
           Desde sistemas de iluminação inteligente até controle total por
@@ -47,14 +64,11 @@ sections:
         title: Sistemas de Segurança Integrados
         image:
           type: Image
-          url: /images/ts.svg
+          url: /images/istockphoto-1162031332-612x612.jpg
           altText: Third item image
         text: >
 
           Soluções avançadas de vigilância e monitoramento, proporcionando
           tranquilidade e proteção em tempo real.
-        actions:
-          - type: Button
-            label: Leia mais ...
-            url: 'https://www.midon.com.br'
+        actions: []
 ---

@@ -2,7 +2,7 @@
     "type": "Config",
     "favicon": "/images/favicon.svg",
     "header": {
-        "title": "Midon - Automação, Cabeamento Estruturado e Soluções Elétricas",
+        "title": "Midon - Automação, Cabeamento e Soluções Elétricas",
         "navLinks": [
             {
                 "type": "Link",
@@ -29,21 +29,21 @@
         "navLinks": [
             {
                 "type": "Link",
-                "label": "Home",
+                "label": "Pagina Inicial",
                 "underline": "hover",
                 "url": "/"
             },
             {
                 "type": "Link",
-                "label": "About",
+                "label": "Portfolio",
                 "underline": "hover",
                 "url": "/about"
             },
             {
                 "type": "Link",
-                "label": "Documentation",
+                "label": "Sobre nós",
                 "underline": "hover",
-                "url": "https://docs.netlify.com/visual-editor/overview/"
+                "url": "/"
             }
         ]
     }
