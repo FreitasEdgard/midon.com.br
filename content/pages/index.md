@@ -25,7 +25,6 @@ sections:
         color: primary
     image:
       type: Image
-      url: /images/Midon22.png
       altText: Hero section image
   - type: CardsSection
     title: Experiencie uma automação completa
