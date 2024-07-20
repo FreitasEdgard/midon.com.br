@@ -43,7 +43,7 @@ sections:
         title: Instalações Elétricas de Alta Performance
         image:
           type: Image
-          url: /images/nextjs.svg
+          url: /images/istockphoto-1150199550-612x612.jpg
           altText: First item image
         text: >
           Expertise em projetos elétricos seguros e eficientes para residências
