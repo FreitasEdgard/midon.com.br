@@ -1,58 +1,87 @@
-# Netlify Next.js + TypeScript + MUI Starter  
+# Midon Elétrica - Site Institucional
 
-![Netlify Next.js + TS + MUI Starter](https://assets.stackbit.com/docs/ts-nextjs-starter-thumb.png)
+Site institucional responsivo para a Midon, empresa especializada em elétrica residencial, empresarial e automação.
 
-This is a minimal starting point for new Netlify projects with visual editing. It is built with Next.js, TypeScript, and [MUI](https://mui.com/), and is equipped with [visual editing capabilities](https://docs.netlify.com/visual-editor/visual-editing/). It uses markdown files as the the [Git Content Source](https://docs.netlify.com/create/content-sources/git/).
+## Visão Geral
 
-**⚡ View demo:** [ts-mui-starter.netlify.app](https://ts-mui-starter.netlify.app/)
+Este projeto consiste em um site institucional completo para a Midon Elétrica, com design moderno nas cores azul, preto e amarelo, totalmente responsivo para funcionar em dispositivos móveis e desktop.
 
-## Deploying to Netlify
+## Características
 
-If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
+- **Design Responsivo**: Layout adaptável para todos os tamanhos de tela
+- **Cores Temáticas**: Azul, preto e amarelo com aspecto moderno e profissional
+- **Formulário de Contato**: Formulário completo com validação JavaScript
+- **Botão de WhatsApp**: Botão fixo para contato direto via WhatsApp
+- **Link para Instagram**: Acesso direto ao perfil @midoneletrica
+- **Navegação Suave**: Rolagem suave para links internos
+- **Menu Mobile**: Menu responsivo para dispositivos móveis
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/ts-mui-nextjs-starter)
+## Estrutura do Projeto
 
-## Features
-
-This is meant to be a simple starting point that demonstrates the use of bringing your own component library, such as MUI.
-
-In addition to MUI support, this project contains the following:
-
-- **Flexible Pages:** Simple and flexible page model that lets editors add new pages.
-- **Basic Components:** A few basic components to add to new pages.
-- **Layout Elements:** Header and footer elements automatically added to pages.
-- **Component & Template Presets:** Predefined arrangements of content and components for faster editing. [Learn more](https://docs.netlify.com/create/content-presets/).
-- **TypeScript Support:** Components and content are type-safe. (See `types` directory for definitions.)
-
-## Getting Started
-
-The typical development process is to begin by working locally. Clone this repository, then run `npm install` in its root directory.
-
-Run the Next.js development server:
-
-```txt
-cd ts-mui-nextjs-starter
-npm run dev
+```
+midon/
+│
+├── css/
+│   └── styles.css
+│
+├── js/
+│   └── script.js
+│
+├── images/
+│   ├── hero-bg.jpg (a ser adicionado)
+│   ├── about-image.jpg (a ser adicionado)
+│   ├── project1.jpg (a ser adicionado)
+│   ├── project2.jpg (a ser adicionado)
+│   ├── project3.jpg (a ser adicionado)
+│   └── project4.jpg (a ser adicionado)
+│
+├── index.html
+└── README.md
 ```
 
-Install the [Netlify Create CLI](https://www.npmjs.com/package/@stackbit/cli). Then open a new terminal window in the same project directory and run the Netlify Create Dev server:
+## Seções do Site
 
-```txt
-npm install -g @stackbit/cli
-stackbit dev
-```
+1. **Header**: Logo e menu de navegação
+2. **Hero**: Banner principal com chamada para ação
+3. **Sobre**: Informações sobre a empresa
+4. **Serviços**: Lista de serviços oferecidos
+5. **Projetos**: Galeria de projetos realizados
+6. **Contato**: Formulário de contato e informações
+7. **Footer**: Rodapé com informações adicionais
 
-This outputs your own Netlify visual editor URL. Open this, register, or sign in, and you will be directed to the Netlify visual editor for your new project.
+## Tecnologias Utilizadas
 
-![Next.js Dev + Netlify Create Dev](https://assets.stackbit.com/docs/next-dev-stackbit-dev.png)
+- HTML5
+- CSS3 (com variáveis CSS e flexbox/grid)
+- JavaScript (vanilla)
+- Font Awesome (para ícones)
+- Google Fonts (Montserrat e Roboto)
 
-## Next Steps
+## Informações de Contato
 
-Here are a few suggestions on what to do next if you're new to Netlify visual editor:
+- **Endereço**: Av. das Nações, 1800 - Parque Capuava, Santo André - SP, 09271-000
+- **WhatsApp**: (11) 98276-8581
+- **Email**: freitas.edgard@hotmail.com
+- **Instagram**: @midoneletrica
 
-- Learn [how Netlify visual editor works](https://docs.netlify.com/visual-editor/overview/)
-- Check [Netlify visual editor reference documentation](https://visual-editor-reference.netlify.com/)
+## Como Usar
 
-## Support
+1. Clone este repositório
+2. Abra o arquivo `index.html` em seu navegador
+3. Para desenvolvimento, edite os arquivos conforme necessário
 
-If you get stuck along the way, get help in our [support forums](https://answers.netlify.com/).
+## Publicação
+
+Este site está preparado para ser publicado no GitHub Pages ou em um domínio da Manus.
+
+## Personalização
+
+Para personalizar o site:
+
+- Adicione suas próprias imagens na pasta `images/`
+- Modifique as cores no arquivo `css/styles.css` (variáveis CSS no início do arquivo)
+- Atualize as informações de contato no HTML
+
+---
+
+Desenvolvido para Midon Elétrica © 2025
